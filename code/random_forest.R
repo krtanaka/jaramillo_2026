@@ -188,7 +188,7 @@ map_df %>%
   )
 
 # Mapping output
-ggmap::register_google("AIzaSyDpirvA5gB7bmbEbwB1Pk__6jiV4SXAEcY")
+ggmap::register_google("")
 
 out_dir <- "output/"
 
